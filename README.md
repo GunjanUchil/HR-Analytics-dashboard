@@ -12,6 +12,6 @@ After checking the correlation of various factors with attrition we were able to
 4. Overtime
 5. Work life balance
 6. Performance rating
-* the sql codes can be accessed here:
+* the sql codes can be accessed here: [Queries](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FGunjanUchil%2FHR-Analytics-dashboard%2Fmain%2FSQL%2520Queries.docx&wdOrigin=BROWSELINK)
 # Power BI Dashboard
 ![Dasboard image](https://github.com/GunjanUchil/HR-Analytics-dashboard/blob/main/HR%20analytics%20dashboard.png)
